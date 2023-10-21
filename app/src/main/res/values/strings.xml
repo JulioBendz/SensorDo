@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SensorDo</string>
+    <string name="autenticar_con_huella_digital">Autenticar con Huella Digital</string>
+    <string name="agregar_tarea">Agregar Tarea</string>
+    <string name="ingrese_una_tarea">Ingrese una tarea</string>
+    <string name="para_ingresar_autenticar_con_huella_digital">Para Ingresar Autenticar Con Huella Digital</string>
+    <string name="eliminar_tarea">Eliminar Tarea</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="descripci_n_de_la_tarea">Descripción de la tarea</string>
+    <string name="SensorDo">SensorDo</string>
+    <string name="Ingresar">Ingresar</string>
+</resources>
